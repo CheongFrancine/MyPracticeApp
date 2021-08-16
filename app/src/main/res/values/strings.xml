@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyPracticeApp</string>
+    <string name="header">Ling Ling 40 Hours 🎶</string>
+    <string name="create_main">create new practice session</string>
+    <string name="update_main">update practice session</string>
+    <string name="delete_main">delete practice session</string>
+    <string name="create_header">creating new practice session... 🎵</string>
+    <string name="display_main">display all practice sessions</string>
+    <string name="description_create">description of your practice session:</string>
+    <string name="description_input_create">enter description here</string>
+    <string name="rating_create">rating of your practice session (productivity):</string>
+    <string name="update_header">updating practice session...🎵</string>
+    <string name="id_update">practice session no. to update:</string>
+    <string name="id_hint">enter session no. here</string>
+    <string name="id_delete">practice session no. to delete:</string>
+    <string name="delete_header">deleting practice session...🎵</string>
+    <string name="create">create</string>
+    <string name="update">update</string>
+</resources>
